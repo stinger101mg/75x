@@ -6,3 +6,11 @@ Send your payload on port 9020 after exploit loaded with NETCAT GUI
 My __Paypal__ : [just click here](https://www.paypal.com/paypalme/chronoss01)
 
 ![Screenshot](https://github.com/chronoss09/host75x/blob/main/20210318003914.jpg)
+
+#This repo has been forked and rehostes by stinger101mg
+Is current as if 3-22-21 to keep a working iteration of this host
+(Due to some host's changing their exploit sometimes not for the better)
+So please dont bitch that this is a clone all credits go to those involved any
+Alterations by myself or anyone else will be well documented.
+Hosts here : https://stinger101mg.github.io/host75x
+My __Paypal__ : [just click here](https://www.paypal.com/paypalme/stinger101mg)
